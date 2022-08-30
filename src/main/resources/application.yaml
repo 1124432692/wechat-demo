@@ -7,7 +7,7 @@ wechat:
   config:
     #配置一个文字的模板ID
     token: asdqwe123
-    singleTemplateId: oXBUq606Aq5COxAOuXueM7Ju2ZLY
+    singleTemplateId: 7Ck2b8RmhKN_vK8CD6PL5sdaddeDZYACKvfhzI
     template:
       #早安模板
       morningTemplate:
@@ -35,8 +35,8 @@ wechat:
             cityCode: 110000
             constellation: 狮子座
       #颜文字模板
-      emoticonsTemplate:XF16jqXBYkvF-kwM2-QnXsSRhL4lQo65lCiMbcuXEuk
-        templateId: oXBUq606Aq5COxAOuXueM7Ju2ZLY
+      emoticonsTemplate:
+        templateId: 7Ck2b8RmhKN_vK8CD6PL5sdaddeDZYACKvfhzI
         allSend: true
         filterOpenIds:
         parameter:
