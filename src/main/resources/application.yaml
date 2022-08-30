@@ -36,7 +36,7 @@ wechat:
             constellation: 狮子座
       #颜文字模板
       emoticonsTemplate:XF16jqXBYkvF-kwM2-QnXsSRhL4lQo65lCiMbcuXEuk
-        templateId: 填写模板ID
+        templateId: oXBUq606Aq5COxAOuXueM7Ju2ZLY
         allSend: true
         filterOpenIds:
         parameter:
